@@ -11,7 +11,7 @@ Firstly, I created my spark cluster with Hadoop on AWS EMR. Using python as my P
 IMPORTANT LINKS: 
 GitHub : https://github.com/komaldeep97/cs643_wineprediction
 
-DockerHub : https://hub.docker.com/r/komaldeep/wineprediction 
+DockerHub : https://hub.docker.com/r/komaldeep/wineprediction
 
 STEPS ON HOW TO SET THE ENVIRONMENT FOR MODEL CREATION AND TRAINING USING AWS EMR.
 
